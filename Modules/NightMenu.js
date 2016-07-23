@@ -1,15 +1,15 @@
 import React from 'react'
 import Nav from './Nav'
-
+import MenuMenu from './MenuMenu'
 
 
 export default React.createClass({
   render() {
     return (
-      <div>
+      <div className='menuBody'>
         <Nav />
-        <div className='imgWrap'>
-        </div>
+        <MenuMenu />
+        <p>Menu</p>
       </div>
     )
   }
