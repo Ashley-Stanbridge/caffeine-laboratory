@@ -6,10 +6,14 @@ export default React.createClass({
     return (
       <div>
         <div className='wrapper'>
-          <button className='button'><Link to="/nightmenu">Night Menu</Link></button>
-          <button className='button'><Link to="/daymenu">Day Menu</Link></button>
+          <a className='button'><Link to="/nightmenu">Night Menu</Link></a>
+          <a className='button'><Link to="/daymenu">Day Menu</Link></a>
         </div>
       </div>
     )
   }
 })
+
+//
+// <button className='button'><Link to="/nightmenu">Night Menu</Link></button>
+// <button className='button'><Link to="/daymenu">Day Menu</Link></button>
