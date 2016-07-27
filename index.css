@@ -377,3 +377,14 @@ section{
   margin-right: 150px;
   /*padding-left: 20px;*/
 }
+
+.map {
+  float: right;
+  padding-right: 100px;
+  padding-top: 50px;
+}
+
+.openHours {
+  margin-left: 100px;
+  margin-top: 50px;
+}
