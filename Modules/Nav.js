@@ -17,7 +17,7 @@ export default React.createClass({
             <input type="checkbox" name="" id="open" />
             <nav>
               <Link to="/">Home</Link>
-              <Link to="/menu">Menu</Link>
+              <Link to="/daymenu">Menu</Link>
               <Link to="/about">About</Link>
             </nav>
           </div>

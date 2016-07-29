@@ -387,4 +387,22 @@ section{
 .openHours {
   margin-left: 100px;
   margin-top: 50px;
+  float: left;
+}
+
+.mont {
+  margin-top: 50px;
+  margin-right: 100px;
+  float: right;
+}
+
+.streetleft {
+  margin-right: 10px;
+  margin-bottom: 25px;
+}
+
+
+.streetright {
+  /*margin-right: 10px;*/
+  margin-bottom: 25px;
 }
